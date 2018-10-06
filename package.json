@@ -1,7 +1,7 @@
 {
   "name": "file_loader",
   "version": "1.0.0",
-  "description": "",
+  "description": "wp4+bs+f_loader+W_CopyPlugin",
   "main": "index.js",
   "scripts": {
     "test": "work with file-loader",
@@ -14,6 +14,7 @@
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
     "babel-preset-env": "^1.7.0",
+    "copy-webpack-plugin": "^4.5.2",
     "css-loader": "^1.0.0",
     "file-loader": "^2.0.0",
     "mini-css-extract-plugin": "^0.4.3",
